@@ -1,5 +1,5 @@
-# Basic-Test-Signals
-Aim
+# Basic-Test-Signals 
+# Aim
 To generate continuous and discrete waveforms for the following :
 1. unit impulse signal
 2. unit step signal
@@ -10,7 +10,7 @@ To generate continuous and discrete waveforms for the following :
 7. unipolar pulse signal
 8. triangular signal
 9. exponential signal
-Theory
+# Theory
 A digital signal can be either a deterministic signal that can be predicted with certainity, or a
 random signal that is unpredictable. Due to ease in signal generation and need for predictability,
 deterministic signal can be used for system simulation studies. A continuous time signal is
